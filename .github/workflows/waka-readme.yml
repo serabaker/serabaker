@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '0 0 * * *' # runs at every 12AM UTC
+    - cron: "0 0 * * *" # runs at every 12AM UTC
 
 jobs:
   update-readme:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKA_TIME_APIKEY: ${{ secrets.WAKA_TIME_APIKEY }}
+          WAKATIME_APIKEY: ${{ secrets.WAKATIME_APIKEY }}
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
