@@ -42,3 +42,5 @@
 <a href="https://github.com/serabaker/serabaker align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serabaker&title_color=59656F&text_color=AC9FBB&icon_color=DDBDD5&bg_color=F7EBEC&langs_count=4" />                                   
 </a>
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=serabaker&theme=dark&background=1d1f21)](https://git.io/streak-stats)
