@@ -32,14 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@1a2e174f-c75b-41d4-b4ad-dd20a01ad146/658c851e-4129-42d8-a7aa-8e8173b2e629.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
+<figure><embed src="https://wakatime.com/share/@1a2e174f-c75b-41d4-b4ad-dd20a01ad146/e448a969-d47e-40f1-ac28-2b23ae8bd8b5.svg"></embed></figure>
 ```
 <!--END_SECTION:waka-->
 
