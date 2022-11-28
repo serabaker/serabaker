@@ -30,7 +30,12 @@
   
   </div>
 <br>
-
+<h3>Github Stats's</h3>
 <a href="https://github.com/serabaker/serabaker" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=serabaker&show_icons=true&line_height=27&count_private=true&title_color=CEB5A7&text_color=E9F7CA&icon_color=EAEFB1&bg_color=F7D488" alt="Britny GitHub Stats" />
+</a>
+
+<h3>Github Top-Langs</h3>
+<a href=""https://github.com/serabaker/serabaker align="right>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serabaker&hide=java,html,tex&title_color=59656F&text_color=AC9FBB&icon_color=DDBDD5&bg_color=F7EBEC&langs_count=4" />                                   
 </a>
