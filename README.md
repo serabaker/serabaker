@@ -28,8 +28,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </div>
 <br>
-!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 <br>
 <h3>Github Stats's</h3>
 <a href="https://github.com/serabaker/serabaker" align="center">
