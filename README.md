@@ -26,15 +26,19 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Mui-3776AB?style=for-the-badge&logo=Mui&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-  
   </div>
+<br>
+!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
 <br>
 <h3>Github Stats's</h3>
 <a href="https://github.com/serabaker/serabaker" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=serabaker&show_icons=true&line_height=27&count_private=true&title_color=CEB5A7&text_color=E9F7CA&icon_color=EAEFB1&bg_color=F7D488" alt="Britny GitHub Stats" />
 </a>
-
+<br>
 <h3>Github Top-Langs</h3>
 <a href="https://github.com/serabaker/serabaker align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serabaker&title_color=59656F&text_color=AC9FBB&icon_color=DDBDD5&bg_color=F7EBEC&langs_count=4" />                                   
