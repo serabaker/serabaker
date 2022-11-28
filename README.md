@@ -30,10 +30,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-
-```text
-<figure><embed src="https://wakatime.com/share/@1a2e174f-c75b-41d4-b4ad-dd20a01ad146/e448a969-d47e-40f1-ac28-2b23ae8bd8b5.svg"></embed></figure>
-```
 <!--END_SECTION:waka-->
 
 <br>
