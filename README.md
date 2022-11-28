@@ -32,5 +32,5 @@
 <br>
 
 <a href="https://github.com/serabaker/serabaker" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=serabaker&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Britny GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=serabaker&show_icons=true&line_height=27&count_private=true&title_color=EC058E&text_color=62bbc1&icon_color=FFFBFC&bg_color=30332E" alt="Britny GitHub Stats" />
 </a>
