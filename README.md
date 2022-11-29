@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" color="8AB0AB>
   Hey There! I'm Britny Lain!
 </h1>
 <div id="badges" align="center">
@@ -8,7 +8,7 @@
 </div>
 
 <br>
-<h2>Below are some of the languages I use</h2>
+<h2 color="8AB0AB">Language Badges</h2>
   <div style="display:flex;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
