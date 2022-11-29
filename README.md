@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<br>
+<hr>
 <h2 color=8AB0AB>Language Badges:</h2>
   <div style="display:flex;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/Mui-3776AB?style=for-the-badge&logo=Mui&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </div>
-<br>
-<h3>Programming Insights:</h3>
+<hr>
+<h3> Daily Programming Insights:</h3>
 <!--START_SECTION:waka-->
 
 ```text
@@ -42,16 +42,16 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br>
+<hr>
 <h3>Github Stats:</h3>
 <a href="https://github.com/serabaker/serabaker" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=serabaker&show_icons=true&line_height=27&count_private=true&title_color=CEB5A7&text_color=E9F7CA&icon_color=EAEFB1&bg_color=F7D488" alt="Britny GitHub Stats" />
 </a>
-<br>
+<hr>
 <h3>Github Top-Languages:</h3>
 <a href="https://github.com/serabaker/serabaker align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serabaker&title_color=59656F&text_color=AC9FBB&icon_color=DDBDD5&bg_color=F7EBEC&langs_count=4" />                                   
 </a>
-<br>
+<hr>
 <h3> GitHub Streak Stat</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=serabaker&theme=sea&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=serabaker&theme=submarine-flowers&hide_border=true)](https://git.io/streak-stats)
