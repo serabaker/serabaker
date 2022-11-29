@@ -1,4 +1,4 @@
-<h1 align="center" color="8AB0AB>
+<h1 align="center" color="8AB0AB">
   Hey There! I'm Britny Lain!
 </h1>
 <div id="badges" align="center">
