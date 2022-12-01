@@ -51,4 +51,4 @@ Other        13 mins         ███░░░░░░░░░░░░░░
 </a>
 <hr>
 <h3> Click to review my GitHub Streak Stats</h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=serabaker)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=serabaker&theme=dark)](https://git.io/streak-stats)
