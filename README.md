@@ -50,5 +50,5 @@ Other        13 mins         ███░░░░░░░░░░░░░░
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serabaker&title_color=59656F&text_color=AC9FBB&icon_color=DDBDD5&bg_color=F7EBEC&langs_count=4" />                                   
 </a>
 <hr>
-<h3> GitHub Streak Stat</h3>
+<h3> Click to review my GitHub Streak Stats</h3>
 [![GitHub Streak](https://streak-stats.demolab.com?user=serabaker](https://git.io/streak-stats)
