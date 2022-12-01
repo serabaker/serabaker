@@ -51,4 +51,4 @@ Other        13 mins         ███░░░░░░░░░░░░░░
 </a>
 <hr>
 <h3> GitHub Streak Stat</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=serabaker&theme=submarine-flowers&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=serabaker](https://git.io/streak-stats)
