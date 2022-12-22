@@ -50,15 +50,7 @@
   </div>
 <hr>
 <h3> Daily Programming Insights:</h3>
-<!--START_SECTION:waka-->
 
-```text
-CSS          2 hrs 7 mins    ████████████▒░░░░░░░░░░░░   49.66 %
-JavaScript   2 hrs 6 mins    ████████████▒░░░░░░░░░░░░   49.20 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-```
-
-<!--END_SECTION:waka-->
 
 <hr>
 <h3>Github Stats:</h3>
