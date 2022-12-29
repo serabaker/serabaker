@@ -1,5 +1,5 @@
 <h1 align="center" style="color:8AB0AB">
-  Hey All, I'm Britny!
+  Hey, I'm Britny!
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/britnylain/">
