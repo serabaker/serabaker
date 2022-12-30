@@ -1,5 +1,5 @@
 <h1 align="center" style="color:8AB0AB">
-  Hey, I'm Britny!
+  Hi, I'm Britny Lain and you have discovered my Github profile!
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/britnylain/">
