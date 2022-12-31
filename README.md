@@ -1,4 +1,4 @@
-<h1 align="center" style="color:8AB0AB">
+<h1 align="center" style="color:green">
   Hi, I'm Britny Lain and you have discovered my Github profile!
 </h1>
 <div id="badges" align="center">
@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=pink" alt="LinkedIn Badge"/>
   </a>
 </div>
-
 <hr>
 <h2 color=8AB0AB>Language Badges:</h2>
   <div style="display:flex;">
