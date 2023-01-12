@@ -63,7 +63,7 @@ Other        3 mins          ▒░░░░░░░░░░░░░░░░
 <hr>
 <h3>Github Stats:</h3>
 <a href="https://github.com/serabaker/serabaker" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app./api?user=serabaker&show_icons=true&line_height=27&count_private=true&title_color=CEB5A7&text_color=E9F7CA&icon_color=EAEFB1&bg_color=F7D488" alt="Britny GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app./api?username=serabaker&show_icons=true&line_height=27&count_private=true&title_color=CEB5A7&text_color=E9F7CA&icon_color=EAEFB1&bg_color=F7D488" alt="Britny GitHub Stats" />
 </a>
 <hr>
 <h3>Github Top-Languages:</h3>
