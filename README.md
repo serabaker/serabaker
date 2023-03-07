@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Britny aka sera baker and you have discovered my Github profile!
 </h1>
-<p>Below area few badges of the languages, library and frameworks I use when developing projects</p>
+<p>Below area few badges of the languages, library and frameworks I use when developing projects as well as my github streak, stats and programming insights.</p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/britnylain/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=pink" alt="LinkedIn Badge"/>
