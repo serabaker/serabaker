@@ -53,9 +53,8 @@
 <h3> Daily Programming Insights:</h3>
 <!--START_SECTION:waka-->
 
-```text
-HTML   1 hr 2 mins     ███████████████████▓░░░░░   78.97 %
-CSS    16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+```txt
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
